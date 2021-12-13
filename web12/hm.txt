@@ -1,0 +1,23 @@
+wap php to accept the name and display another page.
+wap to take three number and display the result and sum,
+write a program php to take calculator to find +,-,*,/
+***wap in php to take info of user name,email,password,mobileand display his information in next page
+wap in php to take p,r,t,to find si(simple intrest).
+wap to accept lenght,breatdth from user and calculate area of rectangle,perimetar.
+wap to in php take radius as input and find redius as input and find ,area,circumfrence of a circle
+wap in php to find remainder of given two number when a/b using % oprator.
+***wap in php to find remainder of given two number when a/b  % oprator.without use
+***wap in php to take a and b as input and use -,/,* oprator to find sum but you 
+are not allowed to use +opratore and condition.
+a>b always.
+a>0 always +ve.
+b>0 always +ve.
+
+wap in php take input of 5 subject of students enter his marks and show the marks of each subject 
+with overall %).
+
+task -13 december:-
+***************
+ working with php cli :-
+ 1.hellow world:without input 
+ 2.addition of two number: with input.
